@@ -1,0 +1,10 @@
+{
+  "name": "@hipstersmoothie/x-core",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
+  }
+}

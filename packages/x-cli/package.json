@@ -1,0 +1,13 @@
+{
+  "name": "@hipstersmoothie/x-cli",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "src/index.js",
+  "dependencies": {
+    "@hipstersmoothie/x-core": "link:../x-core"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
